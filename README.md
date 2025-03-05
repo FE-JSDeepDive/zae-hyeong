@@ -9,3 +9,7 @@
 [11장 원시 값과 객체의 비교](https://zae-hyeong.notion.site/11-1a0a919748c580bca409e1c8c7d25525?pvs=4)   
 
 ## Week 3 
+[12장 함수](https://zae-hyeong.notion.site/12-1aba919748c5805d836af819cf198d64?pvs=4)   
+[13장 스코프](https://zae-hyeong.notion.site/13-1aca919748c580329185f7440a204dae?pvs=4)   
+[14장 전역 변수의 문제점](https://zae-hyeong.notion.site/14-1aca919748c5809783fbef789de5c97d?pvs=4)   
+[15장 let, const 키워드와 블록 레벨 스코프](https://zae-hyeong.notion.site/15-let-const-1ada919748c580b6abbfce3395dd7a76?pvs=4)   
