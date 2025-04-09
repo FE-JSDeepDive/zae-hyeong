@@ -26,3 +26,21 @@
 [23장 실행 컨텍스트](https://zae-hyeong.notion.site/23-1bba919748c580d2ab3afb6a730a7472?pvs=4)   
 
 ## Week 6  
+[24장]()
+[25장](https://zae-hyeong.notion.site/25-1b4a919748c580369097d9821a5a3413?pvs=4)
+[26장]()
+
+## Week 7  
+[27장 배열](https://zae-hyeong.notion.site/27-1c7a919748c5801eb1f2f24327230b25?pvs=4)  
+[28장 Number, 32장 String](https://zae-hyeong.notion.site/28-Number-32-String-1cda919748c58056a062faea4200a745?pvs=4)  
+[30장 Date](https://zae-hyeong.notion.site/30-Date-1cda919748c5804cb018cf8a491790b4?pvs=4)  
+
+## Week 8
+[31장 RegExp](https://zae-hyeong.notion.site/30-Date-1cda919748c5804cb018cf8a491790b4?pvs=4)  
+[33장 7번째 데이터 타입 Symbol](https://zae-hyeong.notion.site/33-7-Symbol-1cda919748c580c89f36e10d01fd5382?pvs=4)  
+
+## Week 9
+[34장 이터러블](https://zae-hyeong.notion.site/34-1d0a919748c580f49307fefb8b0a4aa6?pvs=4)  
+[35장 스프레드 문법](https://zae-hyeong.notion.site/35-1d0a919748c58067b306e191a10ab9da?pvs=4)  
+[36장 디스트럭처링 할당](https://zae-hyeong.notion.site/36-1d0a919748c5801797e6c91595b21913?pvs=4)  
+[37장 Set과 Map](https://zae-hyeong.notion.site/37-Set-Map-1d0a919748c58085bbe5ffa9b4a0fd10?pvs=4)  
